@@ -50,7 +50,7 @@ Detecta el color naranja en la imagen (por ejemplo, un rotulador) y traza una l�
 
 ![Apartado_7](./fotos/7.jpg)
 
-El video de demostración se encuentra en la carpeta *[videos](videos)*
+El vídeo de demostración se encuentra en la carpeta *[videos](videos)*
 
 ## Cómo Ejecutar el Proyecto
 1. Clonar o descargar el repositorio.
